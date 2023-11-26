@@ -3,6 +3,6 @@ package example;
 public class Father{
 
     public String olaMundo(){
-        return "";
+        return "Ola mundo 2";
     }
 }
